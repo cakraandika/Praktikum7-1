@@ -52,7 +52,7 @@ return 0;
 }
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum7/master/Soal1.png)
+![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum7/master/soal1.png)
 
 
 ##Latihan2 : Buatlah fungsi rekursif untuk perkalian dua buah bilangan dengan cara penjumalahan.
@@ -101,7 +101,7 @@ main()
 }
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum7/master/Soal2.png)
+![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum7/master/soal2.png)
 
 ##Latihan3 : Carilah kasus lain yang bisa diselesaikan dengan cara rekursif dengan iteratif.
 
@@ -145,4 +145,4 @@ int main()
 }
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum7/master/Soal3.png)
+![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum7/master/soal3.png)
